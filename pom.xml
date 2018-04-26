@@ -30,7 +30,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <dubbo-spring-boot-starter.version>2.0.0</dubbo-spring-boot-starter.version>
-        <dubbo-starter-api-demo.version></dubbo-starter-api-demo.version>
+        <dubbo-starter-api-demo.version>0.0.1-SNAPSHOT</dubbo-starter-api-demo.version>
     </properties>
 
     <build>

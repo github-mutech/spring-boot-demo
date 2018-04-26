@@ -31,7 +31,7 @@
         <dependency>
             <groupId>com.mutech</groupId>
             <artifactId>dubbo-starter-api-demo</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>${dubbo-starter-api-demo.version}</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
