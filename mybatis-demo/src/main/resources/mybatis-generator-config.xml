@@ -11,9 +11,9 @@
         </commentGenerator>
 
         <!--数据库链接URL，用户名、密码 -->
-        <jdbcConnection connectionURL="jdbc:mysql://39.106.56.58:3306/mute?useSSL=false&amp;characterEncoding=UTF-8"
-                        userId="root"
-                        password="p$WxH2WiXHxSEwT!"
+        <jdbcConnection connectionURL=""
+                        userId=""
+                        password=""
                         driverClass="com.mysql.jdbc.Driver"/>
 
         <javaTypeResolver>
